@@ -155,5 +155,5 @@ vercel --prod
 
 ---
 
-**Live Demo**:  [My Deployed URL]  
+**Live Demo**:  [My Deployed URL](https://business-intelligence-dashboard-nine.vercel.app/)
 **Repository**: [My GitHub URL](https://github.com/esaam-habib/business-intelligence-dashboard)
